@@ -5,14 +5,14 @@ Use Adobe Indesign to process through a csv file updated from a private datashee
 
 Check that link to csv is intact
 
-![]('linked files.jpg')
+![](./linked files.jpg)
 
 Run Merge on desired range or full sheet and save as "Peter Liddle Catalogue"
 
-![]('merge.jpg')
+![](./merge.jpg)
 
 Export at High Quality Print and Smallest File Size for Print & email.
 
-![]('export.jpg')
+![](./export.jpg)
 
 
